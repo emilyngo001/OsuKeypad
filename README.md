@@ -1,5 +1,5 @@
 # OsuKeypad
-![osukeypad](./images/osukeypad.jpg)
+![osukeypad](./image/osukeypad.jpg)
 
 
 A 2-key USB keypad for osu!, built on an RP2040-Zero and written in MicroPython. It shows up on the computer as a normal USB keyboard and types Z and X, which are osu!'s default keys.
