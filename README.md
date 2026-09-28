@@ -1,4 +1,6 @@
 # OsuKeypad
+![osukeypad](./images/osukeypad.jpg)
+
 
 A 2-key USB keypad for osu!, built on an RP2040-Zero and written in MicroPython. It shows up on the computer as a normal USB keyboard and types Z and X, which are osu!'s default keys.
 
@@ -42,3 +44,8 @@ I want a PyQt6 app that pops up when the keypad is plugged in and lets you choos
 - [ ] Remapping GUI
 - [ ] Measure full press-to-screen latency (high-frame-rate video, compared against a normal keyboard)
 - [ ] Rerun the latency test with 200 samples
+- [ ] Make a PCB (make it look cleaner and have leds maybe) and have maybe hot swappable switches
+- [ ] Make a 3D Case for the PCB
+
+## Video of me playing osu!
+[![Watch the Video](https://youtube.com)](https://www.youtube.com/shorts/BdA2dLe7oAA)
